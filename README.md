@@ -1,4 +1,4 @@
-![logo](https://github.com/Arunabha-Manna-06/Arunabha-Manna-06/blob/main/abstract-modern-tech-of-programming-code-screen-developer-free-photo.jpg)
+![logo](https://github.com/Arunabha-Manna-06/Arunabha-Manna-06/blob/main/WhatsApp%20Image%202025-09-01%20at%2010.39.04%20PM.jpeg)
 <h1 align="center">Hi 👋, I'm Arunabha Manna</h1>
 <h3 align="center">A passionate software engineer from India</h3>
 <img align="right" alt="coding" width="400" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e
